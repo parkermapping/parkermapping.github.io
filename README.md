@@ -2,6 +2,6 @@
 theme: jekyll-theme-minimal
 
 __This is my portfolio__
-**GIS**
+*GIS*
 
 Welcome
