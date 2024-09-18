@@ -1,5 +1,5 @@
 # parkermapping.github.io
-theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
 
 __This is my portfolio__
 
